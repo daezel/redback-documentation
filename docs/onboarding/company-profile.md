@@ -19,7 +19,7 @@ initiatives, Redback Operations aims to empower individuals in their pursuit of 
 workout smarter, safer, and more enjoyable.
 
 
-### 2024 Company Directors
+### 2025 Company Directors
 
 - **Trimester 1** - A/Prof. Daniel Lai (Associate Professor)
 - **Trimester 2** - Prof Seng Loke (Professor In Computer Science)
@@ -44,7 +44,7 @@ innovation, security, and excellence. By standardizing processes and emphasizing
 the company not only streamlines its operations but also sets a solid foundation for future growth and
 success.
 
-2024 Trimester Company Lead: **Kaleb Bowen**
+2025 T1 Company Leads: **Daezel Goyal** and **Codey Funston**
 
 ### Projects
 
